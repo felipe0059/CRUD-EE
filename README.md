@@ -21,6 +21,7 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 • Senha[string]  
 
 - A estrutura da tabela telefones :
+
 • id [int]  
 • ddd [Número] 
 • Número [String]
