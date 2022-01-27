@@ -22,12 +22,14 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 
 - A estrutura da tabela telefones :
 
-• id [int]  
-• ddd [Número] 
+• id [int] 
+• ddd [Número]
 • Número [String]
 • Tipo [int]  
 
+
 ---
+
 ## Implementações futuras
 
 -Testes unitários (Junit)
