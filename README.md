@@ -3,7 +3,7 @@
 ## Sobre
 Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JBoss/Wildfly. ( [Configurações](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) );
 
-**Funcionalidades:
+**Funcionalidades:**
 
 1. Fazer login  
 2. Consultar Usuários (Lista todos)  
@@ -11,7 +11,7 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 4. Alterar Usuário  
 5. Remover Usuário  
 
-**Projeto estruturado em 2 tabelas utilizando o MySQL ( [Queries](https://github.com/felipe0059/CRUD-SE/tree/main/Queries) ) ;
+**Projeto estruturado em 2 tabelas utilizando o MySQL ( [Queries](https://github.com/felipe0059/CRUD-SE/tree/main/Queries) ) ;**
 
  - A estrutura da tabela usuário :
 
