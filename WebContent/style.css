@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+/*BACKGROUND DA PAGINA*/
+body {
+	background-color: rgb(192, 192, 192);
+	margin-top: 300px;
+}
+/*CAMPO INSERÇAO DE DADOS EM CADASTRO E ALTERAÇAO*/
+.Caixa {
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid rgb(192, 192, 192);
+	border-radius: 5px;
+}
+/*CAMPO DE INSERÇÃO DO DDD*/
+.CaixaDDD {
+	width: 50px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid rgb(192, 192, 192);
+	border-radius: 5px;
+}
+/*EFEITO AO USUARIO SELECIONAR A CAIXA DE INSERÇÃO*/
+.Select{
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid rgb(192, 192, 192);
+	border-radius: 5px;
+}
+
+/*TITULO DA TABELA DE USUARIOS*/ 
+#tabela {
+	margin-top: 10px;
+	border: 3px solid rgb(192, 192, 192);
+	background: white;
+	margin-bottom: 30px;
+}
+
+/*PARTE DE CIMA DA TABELA DE USUARIOS*/
+#tabela th {
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: center;
+	background:rgb(192, 192, 192);
+	color: black;
+}
+
+/*PARTE DE BAIXO DA TABELA DE USUARIOS*/
+#tabela td {
+	border: 1px solid #ddd;
+	padding: 10px;
+	background: rgb(192, 192, 192);
+}
