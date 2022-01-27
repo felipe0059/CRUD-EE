@@ -15,18 +15,17 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 
  - A estrutura da tabela usuário :
 
-• id [int]  
+• ID [int]  
 • Nome [string]  
 • Email [string]  
 • Senha[string]  
 
 - A estrutura da tabela telefones :
-
-• Id [int] 
-• ddd [Número]
-• Número [String]
-• Tipo [int]  
-
+ 
+• ID [int]  
+• DDD [string]  
+• Número [string]  
+• Tipo[string]  
 
 ## Implementações futuras
 
