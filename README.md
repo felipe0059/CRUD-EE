@@ -27,7 +27,6 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 • Número [String]
 • Tipo [int]  
 
----
 
 ## Implementações futuras
 
