@@ -29,10 +29,12 @@ Minha primeira aplicação construída com a plataforma SE + MySQL + Servidor JB
 
 ## Implementações futuras
 
--Testes unitários (Junit)
+-Warning para usuário inexistente;
+-Migração para o banco de dados PostGRE;
+-Testes unitários (Junit);
+-Deploy da aplicação;
 
-
-## Como rodar a aplicação:
+## Como rodar a aplicação com a IDE Eclipse:
 
 - Clone o repositório:
  
@@ -44,5 +46,7 @@ $git clone https://github.com/felipe0059/CRUD-SE
 - Instale o Servidor JBoss/Wildfly disponível neste [link](https://www.wildfly.org/downloads/);
 - Altere as pastas para as inclusas neste [arquivo](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) para a pasta de arquivos do servidor no seu computador;
 - Baixe as [Queries](https://github.com/felipe0059/CRUD-SE/tree/main/Queries) para o banco de dados;
-- Altere a senha classe "Conexão" no package **br.com.datainfo.conexão** para os dados do seu Database no seu MySQL; (para alguns casos a porta de execução também deve ser alterada)
+- Altere a propriedade senha na classe "Conexão", no package **br.com.datainfo.conexão**, para os dados do seu Database no seu MySQL; (para alguns casos a porta de execução também deve ser alterada)
+- Importe o arquivo das Queries no Banco de dados e faça a execução.
 - No Eclipse clique com o botão direito no diretório do projeto, selecione "Run As.." e depois selecione "Run on Server."
+- A aplicação iniciará sozinha no seu navegador padrão;
