@@ -27,12 +27,15 @@ Minha primeira aplicação construída com a plataforma SE + MySQL + Servidor JB
 • Número [string]  
 • Tipo[string]  
 
+
 ## Implementações futuras
+
 
 -Warning para usuário inexistente;
 -Migração para o banco de dados PostGRE;
 -Testes unitários (Junit);
 -Deploy da aplicação;
+
 
 ## Como rodar a aplicação com a IDE Eclipse:
 
