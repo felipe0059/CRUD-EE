@@ -27,15 +27,12 @@ Minha primeira aplicação construída com a plataforma SE + MySQL + Servidor JB
 • Número [string]  
 • Tipo[string]  
 
-
 ## Implementações futuras
 
-
--Warning para usuário inexistente.
--Migração para o banco de dados PostGRE.
--Testes unitários (Junit).
--Deploy da aplicação.
-
+1.Warning para usuário inexistente.
+2.Migração para o banco de dados PostGRE.
+3.Testes unitários (Junit).
+4.Deploy da aplicação.
 
 ## Como rodar a aplicação com a IDE Eclipse:
 
