@@ -1,7 +1,7 @@
 <h1 align="center"> Aplicação de Cadastro de Usuario</h1>
 
 ## Sobre
-Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JBoss/Wildfly. ( [Configurações](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) );
+Minha primeira aplicação construída com a plataforma SE + MySQL + Servidor JBoss/Wildfly. ( [Configurações](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) );
 
 **Funcionalidades:**
 
@@ -11,7 +11,7 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 4. Alterar Usuário  
 5. Remover Usuário  
 
-**Projeto estruturado em 2 tabelas utilizando o MySQL ( [Queries](https://github.com/felipe0059/CRUD-SE/tree/main/Queries) ) ;**
+**Projeto estruturado em 2 tabelas utilizando o MySQL;**
 
  - A estrutura da tabela usuário :
 
@@ -32,11 +32,17 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
 -Testes unitários (Junit)
 
 
-## Clone o repositório :
+## Como rodar a aplicação:
 
+- Clone o repositório:
+ 
 ```bash
 
 $git clone https://github.com/felipe0059/CRUD-SE
 
 ```
-
+- Instale o Servidor JBoss/Wildfly disponível neste [link](https://www.wildfly.org/downloads/);
+- Altere as pastas para as inclusas neste [arquivo](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) para a pasta de arquivos do servidor no seu computador;
+- Baixe as [Queries](https://github.com/felipe0059/CRUD-SE/tree/main/Queries) para o banco de dados;
+- Altere a senha classe "Conexão" no package **br.com.datainfo.conexão** para os dados do seu Database no seu MySQL; (para alguns casos a porta de execução também deve ser alterada)
+- No Eclipse clique com o botão direito no diretório do projeto, selecione "Run As.." e depois selecione "Run on Server."
