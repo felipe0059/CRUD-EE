@@ -40,7 +40,7 @@ Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JB
  
 ```bash
 
-$git clone https://github.com/felipe0059/CRUD-SE
+$git clone https://github.com/felipe0059/CRUD-EE
 
 ```
 - Instale o Servidor JBoss/Wildfly disponível neste [link](https://www.wildfly.org/downloads/);
