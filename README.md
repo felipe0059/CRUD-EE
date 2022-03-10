@@ -1,7 +1,7 @@
 <h1 align="center"> Aplicação de Cadastro de Usuario</h1>
 
 ## Sobre
-Minha primeira aplicação construída com a plataforma SE + MySQL + Servidor JBoss/Wildfly. ( [Configurações](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) );
+Minha primeira aplicação construída com a plataforma EE + MySQL + Servidor JBoss/Wildfly. ( [Configurações](https://github.com/felipe0059/CRUD-SE/tree/main/ServerConfigs) );
 
 **Funcionalidades:**
 
